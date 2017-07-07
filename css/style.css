@@ -1,6 +1,11 @@
 body {
   background-color: #e3dee5;
   text-align: center;
+<<<<<<< HEAD
+=======
+  /*font-family: 'Raleway', Helvetica, sans-serif;*/
+  /*min-width: 320px;*/
+>>>>>>> 3aed5bf7c7bc3b0c679de86aff956ff834fc55a7
 }
 
 .purple{
@@ -17,6 +22,10 @@ body {
   text-align:left;
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3aed5bf7c7bc3b0c679de86aff956ff834fc55a7
 #comments{
     width:100%;
     height:50px;
@@ -52,9 +61,15 @@ body {
   text-align:center;
 }
 
+<<<<<<< HEAD
 footer{
     text-align: center;
     position:relative;
     padding-bottom: 1200px;
 }
 
+=======
+/*button{*/
+/*    margin: 0 auto;*/
+/*}*/
+>>>>>>> 3aed5bf7c7bc3b0c679de86aff956ff834fc55a7
