@@ -23,7 +23,7 @@ body {
     resize:vertical;
 }
 
-#title, #description{
+#form_title, #description{
     text-align:center;
 }
 
@@ -43,7 +43,25 @@ body {
 footer{
     text-align: center;
     position:relative;
-    /*padding-bottom: 1200px;*/
-    margin-top: 900px;
+    /*margin-top: 900px;*/
+    position: fixed;
+    left:0;
+    right:0;
+    bottom:0;
+    height: 200px;
+    overflow: auto;
+}
+
+label{
+  font-size:medium;
+  vertical-align: middle;
+}
+
+input[type="radio"]{
+  vertical-align: middle;
+}
+
+input[type="checkbox"]{
+  vertical-align: middle;
 }
 
